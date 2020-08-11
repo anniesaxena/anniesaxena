@@ -35,7 +35,7 @@
 
 ---
 
-<img align="left" alt="Annie's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anniesaxena&show_icons=true&hide_border=true" />
+<img align="left" alt="Annie's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anniesaxena&show_icons=true&hide_border=true&hide=stars&count_private=true" />
 
 [website]: https://anniesaxena.github.io/PortfolioAnnie
 [linkedin]: https://linkedin.com/in/annie-saxena
