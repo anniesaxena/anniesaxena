@@ -39,7 +39,7 @@
 
 [website]: https://anniesaxena.github.io/PortfolioAnnie
 [linkedin]: https://linkedin.com/in/annie-saxena
-[instagram]: https://instagram.com/anniesaxena
+[instagram]: https://www.instagram.com/aniie_saxena/
 [html]: https://en.wikipedia.org/wiki/HTML5
 [css]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 [react]: https://en.wikipedia.org/wiki/React_(web_framework)
