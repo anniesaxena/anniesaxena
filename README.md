@@ -1,10 +1,10 @@
 ### Hi there, I'm Annie Saxena 👋
 
 ## I'm a third year undergraduate student at MNNIT Allahabad!
-- 🌱 I'm currently learning Web development and Blockchain 💻
+- 🌱 I'm currently learning Web development and Data Science 💻
 - 💻 I love competitive coding and solving DS Algo problems 😻
-- 👯 I'm looking to collaborate with people having similar interests
-- ☘️ 2021 Goals: Become a Full-Stack Developer and make Dapps using ethereum.
+- 👯 I'll be happy to collab with people having similar interests!!
+- ☘️ 2021 Goals: BE GOOD. DO GOOD. FEEL GOOD.
 - ✨ Fun Fact: I love Dancing 💃 and Travelling 🧳
 
 ### Connect with me:
