@@ -33,7 +33,7 @@
 <br />
 
 ---
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?anniesaxena)
 ---
 
 <img align="left" alt="Annie's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anniesaxena&show_icons=true&hide_border=true&hide=stars&count_private=true" />
