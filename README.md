@@ -33,7 +33,7 @@
 <br />
 
 ---
-![](https://komarev.com/ghpvc/?anniesaxena)
+![](https://komarev.com/ghpvc/?username=anniesaxena)
 ---
 
 <img align="left" alt="Annie's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anniesaxena&show_icons=true&hide_border=true&hide=stars&count_private=true" />
