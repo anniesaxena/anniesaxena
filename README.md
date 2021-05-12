@@ -36,7 +36,7 @@
 ![](https://komarev.com/ghpvc/?username=anniesaxena)
 ---
 
-<img align="left" alt="Annie's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anniesaxena&show_icons=true&hide_border=true&hide=stars&count_private=true" />
+<img align="left" alt="Annie's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anniesaxena&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=tokyonight" />
 
 [website]: https://anniesaxena.github.io/PortfolioAnnie
 [linkedin]: https://linkedin.com/in/annie-saxena
@@ -52,3 +52,5 @@
 [vscode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
 [c++]: https://en.wikipedia.org/wiki/C%2B%2B
 [java]: https://en.wikipedia.org/wiki/Java_(programming_language)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniesaxena&theme=tokyonight&hide=Jupyter%20Notebook)
