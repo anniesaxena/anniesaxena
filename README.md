@@ -1,6 +1,7 @@
 ### Hi there, I'm Annie Saxena 👋
 
 ## I'm a third year undergraduate student at MNNIT Allahabad!
+### Present Summer Analyst Intern at Citi
 - 🌱 I'm currently learning Web development and Data Science 💻
 - 💻 I love competitive coding and solving DS Algo problems 😻
 - 👯 I'll be happy to collab with people having similar interests!!
@@ -36,7 +37,7 @@
 ![](https://komarev.com/ghpvc/?username=anniesaxena)
 ---
 
-<img align="left" alt="Annie's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anniesaxena&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=tokyonight" />
+![Annie's GitHub stats](https://github-readme-stats.vercel.app/api?username=anniesaxena&show_icons=true&theme=radical&count_private=true)
 
 [website]: https://anniesaxena.github.io/PortfolioAnnie
 [linkedin]: https://linkedin.com/in/annie-saxena
