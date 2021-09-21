@@ -1,8 +1,7 @@
 ### Hi there, I'm Annie Saxena 👋
 
-## I'm a third year undergraduate student at MNNIT Allahabad!
-### Present Summer Analyst Intern at Citi
-- 🌱 I'm currently learning Web development and Data Science 💻
+## I'm a Final year undergraduate student at MNNIT Allahabad!
+- 🌱 I'm currently learning Data Science and Machine Learning 💻
 - 💻 I love competitive coding and solving DS Algo problems 😻
 - 👯 I'll be happy to collab with people having similar interests!!
 - ☘️ 2021 Goals: BE GOOD. DO GOOD. FEEL GOOD.
