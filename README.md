@@ -17,6 +17,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Py" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][c++]
 [<img align="left" alt="Java" width="60px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" />][java]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
@@ -28,7 +29,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-
+[<img align="left" alt="Jyupter" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />][jyupter]
+[<img align="left" alt="tf" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tf]
 <br />
 <br />
 
@@ -49,8 +51,11 @@
 [git]: https://en.wikipedia.org/wiki/Git
 [github]: https://en.wikipedia.org/wiki/GitHub
 [sql]: https://en.wikipedia.org/wiki/Sql
-[vscode]: https://en.wikipedia.org/wiki/Visual_Studio_Code
-[c++]: https://en.wikipedia.org/wiki/C%2B%2B
-[java]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[vscode]: https://code.visualstudio.com/
+[c++]: https://isocpp.org/
+[java]: https://www.java.com/en/
+[python]: https://www.python.org/
+[tf]: https://www.tensorflow.org/
+[jyupter]: https://jupyter.org/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anniesaxena&theme=tokyonight&hide=Jupyter%20Notebook)
