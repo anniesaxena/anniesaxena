@@ -1,11 +1,11 @@
 ### Hi there, I'm Annie Saxena 👋
 
-## I'm a Final year undergraduate student at MNNIT Allahabad!
-- 🌱 I'm currently learning Data Science and Machine Learning 💻
-- 💻 I love competitive coding and solving DS Algo problems 😻
+## I'm a Tech Analyst at CITI Pune!
+- 🌱 I'm currently working in Trade and Treasury Services unit as a Full Stack developer making SpringBoot APIs and Angular screens 💻
+- 💻 I love Data and gaining insights from that 😻
 - 👯 I'll be happy to collab with people having similar interests!!
-- ☘️ 2021 Goals: BE GOOD. DO GOOD. FEEL GOOD.
-- ✨ Fun Fact: I love Dancing 💃 and Travelling 🧳
+- ☘️ 2024 Goals: BE GOOD. DO GOOD. FEEL GOOD.
+- ✨ Fun Fact: I love Dancing 💃 Fitness and Travelling 🧳
 
 ### Connect with me:
 
